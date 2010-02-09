@@ -1,0 +1,7 @@
+{
+    "name": "narwhal-appengine",
+    "author": "George K. Moschovitis <george.moschovitis@gmail.com>",
+    "keywords": ["appengine", "google", "engine", "narwhal"],
+    "engine": "appengine",
+    "dependencies": ["narwhal", "appengine"]
+}
