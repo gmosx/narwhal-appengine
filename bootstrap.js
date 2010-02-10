@@ -74,6 +74,8 @@
         Packages.java.lang.System.out.println(String(string));
     };
 
+print("===GAE")
+
     var narwhal = context.evaluateReader(
         global,
         new Packages.java.io.FileReader(prefix + "/narwhal.js"),
